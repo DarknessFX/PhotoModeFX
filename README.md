@@ -16,7 +16,7 @@
 
 A complete, generic, unobtrusive, easy-to-use in game photographic system for Unreal Engine 4.23.1 (and newer).<br/>
 
-Project info/blog at https://dfx.lv/PhotoModeFX .<br/>
+Project info/blog at https://dfx.lv/PhotoModeFX (soon).<br/>
 
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" />
 
