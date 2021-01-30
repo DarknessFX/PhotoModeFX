@@ -18,7 +18,7 @@ A complete, generic, unobtrusive, easy-to-use in game photographic system for Un
 
 Project info/blog at https://dfx.lv/PhotoModeFX (soon).<br/>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/IyxmRHzYy-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" />
 
 ## Features
 
