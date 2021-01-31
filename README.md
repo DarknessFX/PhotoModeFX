@@ -31,6 +31,7 @@ Video:<br/>
 - HighResolution with Buffer Visualization screenshots (via ScreenshotTools plugin).
 - Panoramic (360) and Stereoscopic (VR) with Buffer Visualization screenshots (via PanoramicCapture plugin).
 - Capture and export Cubemaps.
+- Generate 3DPhotos (for Facebook).
 - Blueprint only, to easily package your project to any supported platform.
 - No tick events.
 - Following current UE4 Best Practices.
