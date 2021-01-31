@@ -39,7 +39,7 @@ Video:<br/>
 # Requirements
 Unreal Engine 4.23.1 or newer.<br/>
 ScreenshotTools plugin (can be disabled if HighRes Screenshots aren't necessary).<br/>
-PanoramicCapture plugin (can be disabled if Panoramic/Stereoscopi Screenshots aren't necessary).<br/><br/>
+PanoramicCapture plugin (can be disabled if Panoramic/Stereoscopic Screenshots aren't necessary).<br/><br/>
 
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/HowToUse_0.png" width="640px" />
 
