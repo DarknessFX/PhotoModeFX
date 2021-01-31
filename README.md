@@ -57,12 +57,12 @@ Press keyboard P key to start PhotoModeFX (you can change the default key and ot
 If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.
 
 # Versioning
-v0.2 - Added 3DPhoto (for Facebook) capture and settings. Small fix on camera detection for pawns without camera component.
+v0.2 - Added 3DPhoto (for Facebook) capture and settings. Small fix on camera detection for pawns without camera component.<br/>
 v0.1 - Alpha released.
 
 ## TODO
 
-- Lots of features are under construction until full release.
+- Lots of features are under construction until full release.<br/>
 - Files and instructions to install as Engine Template / "Add Feature or Content Pack".
 
 ## Credits
