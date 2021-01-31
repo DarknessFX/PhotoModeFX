@@ -14,7 +14,7 @@
 
 # PhotoModeFX for Unreal Engine 4
 
-A complete, generic, unobtrusive, easy-to-use in game photographic system for Unreal Engine 4.23.1 (and newer).<br/>
+A complete, generic, unobtrusive, easy-to-use in game photographic system (PhotoMode) for Unreal Engine 4.23.1 (and newer).<br/>
 
 Project info/blog at https://dfx.lv/PhotoModeFX .<br/><br/>
 Menu Capture:<br/>
