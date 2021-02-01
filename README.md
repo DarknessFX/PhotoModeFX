@@ -59,6 +59,11 @@ If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 
 
 # Screenshots
 
+Screenshot:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_SS.png" width="640px" /><br/>
+
+HighResolution Screenshot (scaled from 8K to 1K, display here as 640p):<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_HRSS.png" width="640px" /><br/>
 
 
 # Versioning
