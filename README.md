@@ -40,7 +40,7 @@ PanoramicCapture plugin (can be disabled if Panoramic/Stereoscopic Screenshots a
 
 ## Note for compatibility with Unreal Engine 4.26
 
-CineCameraComponent Filmback nodes changed name from **"Filmback Settings"** to **"Filmback"** after UE4.23.1, to fix this error just create new nodes Get/Set using "Filmback" and move the connectors.<br/>
+CineCameraComponent Filmback nodes changed name from **"Filmback Settings"** to **"Filmback"** after UE4.23.1, to fix this error just create new nodes Get/Set using "Filmback" and move the connectors.<br/><br/>
 You can find this nodes inside **BP_PhotoModeFX**, Functions **PMFX_UI_Filmback** and **PMFX_UI_SensorChanged**.<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/HowToUse_UE426.png" width="640px" />
 
