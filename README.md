@@ -51,8 +51,10 @@ You can find this nodes inside **BP_PhotoModeFX**, Functions **PMFX_UI_Filmback*
 
 # How to Use
 
-Download the Zip file, extract the files to any folder and start the PhotoModeFX.uproject.<br/>
-Open BP_PhotoModeFX and compile the blueprint (ignore warnings, fix the error mentioned above).<br/>
+Download the Zip file.<br/>
+Extract the files to any folder.<br/>
+Delete the .git_img folder... The project files are light weight with 1,532KB (zipped) but this readme screenshots raise it to 41,403Kb.<br/>
+Open BP_PhotoModeFX and compile the blueprint (ignore warnings, fix the error mentioned above).<br/><br/>
 Open the included PMFX_SampleMap and play the level.<br/>
 Press keyboard P key to start PhotoModeFX (you can change the default key and other settings on BP_PhotoModeFX Details panel).<br>
 If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.
