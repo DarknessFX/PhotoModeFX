@@ -59,7 +59,7 @@ Open the included PMFX_SampleMap and play the level.<br/>
 Press keyboard P key to start PhotoModeFX (you can change the default key and other settings on BP_PhotoModeFX Details panel).<br>
 If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.
 
-# Screenshots
+# Samples
 
 Screenshot:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_SS.png" width="640px" /><br/>
