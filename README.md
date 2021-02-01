@@ -80,6 +80,10 @@ Stereoscopic VR Screenshot (scaled from 2K to 1K, displayed here as 640p):<br/>
 Cubemap (scaled from 512p to 1K, displayed here as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Cubemap.png" width="640px" /><br/>
 
+
+3DPhoto For Facebook (sample from 2k x 2 images [FinalColor 29.1Mb + SceneDepth 745KB], captured as 560p MP4, converted to 100MB GIF, optimized to 1/4 frames, compressed to 24MB):<br/>
+<img src="="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_3DPhoto.gif" width="640px" /><br/>
+
 # Versioning
 v0.2 - Added 3DPhoto (for Facebook) capture and settings. Small fix on camera detection for pawns without camera component.<br/>
 v0.1 - Alpha released.
