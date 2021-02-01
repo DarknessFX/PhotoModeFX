@@ -17,11 +17,6 @@
 A complete, generic, unobtrusive, easy-to-use in game photographic system (PhotoMode) for Unreal Engine 4.23.1 (and newer).<br/>
 
 Project info/blog at https://dfx.lv/PhotoModeFX .<br/><br/>
-Menu Capture:<br/>
-<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" /><br/><br/>
-
-Video:<br/>
-<a href="https://www.youtube.com/watch?v=IyxmRHzYy-Q" target="_blank"><img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PhotoModeFX_YoutubePreview.png" width="640px" /></a>
 
 ## Features
 
@@ -62,6 +57,12 @@ PhotoModeFX project files are light weight with 1,532KB (zipped) but this readme
 The irony of the generic photographic system being lighter than the photos it takes wasn't missed.<br/>
 
 # Samples
+
+Menu Capture:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" /><br/><br/>
+
+Video:<br/>
+<a href="https://www.youtube.com/watch?v=IyxmRHzYy-Q" target="_blank"><img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PhotoModeFX_YoutubePreview.png" width="640px" /></a><br/>
 
 Screenshot:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_SS.png" width="640px" /><br/>
