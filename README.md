@@ -62,9 +62,23 @@ If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 
 Screenshot:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_SS.png" width="640px" /><br/>
 
-HighResolution Screenshot (scaled from 8K to 1K, display here as 640p):<br/>
+HighResolution Screenshot (scaled from 8K to 1K, displayed here as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_HRSS.png" width="640px" /><br/>
 
+HighResolution Buffer Visualization Screenshot (scaled from 8K to 1K, to 216p, displayed here as 640p):<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_BufVis.png" width="640px" />
+
+HighResolution Buffer Visualization HDR Screenshot:<br/>
+It's like the sample before but brighter and with .EXR file extension...<br/>
+
+Panoramic 360 Screenshot (scaled from 2K to 1K, displayed here as 640p):<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Pano.png" width="640px" /><br/>
+
+Stereoscopic VR Screenshot (scaled from 2K to 1K, displayed here as 640p):<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_VR.png" width="640px" /><br/>
+
+Cubemap (scaled from 512p to 1K, displayed here as 640p):<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Cubemap.png" width="640px" /><br/>
 
 # Versioning
 v0.2 - Added 3DPhoto (for Facebook) capture and settings. Small fix on camera detection for pawns without camera component.<br/>
