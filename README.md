@@ -102,7 +102,7 @@ v0.1 - Alpha released.
 
 Unreal Engine by Epic Games - https://www.unrealengine.com/ .<br/>
 Video trailer uses UE4 Hour Of Code - https://www.unrealengine.com/en-US/blog/learn-how-to-code-with-unreal-engine .<br/>
-Screenshot samples uses UE4 Detective Office -  https://www.unrealengine.com/en-US/blog/learn-how-to-code-with-unreal-engine .<br/>
+Screenshot samples uses UE4 Detective Office - https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment .<br/>
 
 ## License
 
