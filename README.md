@@ -53,12 +53,13 @@ You can find this nodes inside **BP_PhotoModeFX**, Functions **PMFX_UI_Filmback*
 
 Download the Zip file.<br/>
 Extract the files to any folder.<br/>
-Delete the .git_img folder if you download/clone from main instead of download the release package.<br/>
-(PMFX project files are light weight with 1,532KB (zipped) but this readme screenshots raise it to 41,403Kb.)<br/>
+Delete the .git_img* folder if you download/clone from main instead of download the release package.<br/>
 Open BP_PhotoModeFX and compile the blueprint (ignore warnings, fix the error mentioned above).<br/>
 Open the included Content/PhotoModeFX/PMFX_SampleMap and play the level.<br/>
 Press keyboard P key to start PhotoModeFX (you can change the default key and other settings on BP_PhotoModeFX Details panel).<br>
-If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.
+If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.<br/><br/>
+PhotoModeFX project files are light weight with 1,532KB (zipped) but this readme screenshots raise it to 41,403Kb. (zipped)<br/>
+The irony of the generic photographic system being lighter than the photos it takes wasn't missed.<br/>
 
 # Samples
 
@@ -68,7 +69,7 @@ Screenshot:<br/>
 HighResolution Screenshot (scaled from 8K to 1K, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_HRSS.png" width="640px" /><br/>
 
-HighResolution Buffer Visualization Screenshots (scaled from 8K to 1K, to 216p, displayed as 640p):<br/>
+HighResolution Buffer Visualization Screenshots (scaled from 8K to 1K, to 216p 5x gallery, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_BufVis.png" width="640px" />
 
 HighResolution Buffer Visualization HDR Screenshot:<br/>
