@@ -89,7 +89,8 @@ Cubemap (scaled from 512p to 1K, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_3DPhoto.gif" width="640px" /><br/>
 
 # Versioning
-v0.2 - Added 3DPhoto (for Facebook) capture and settings. Small fix on camera detection for pawns without camera component.<br/>
+v0.3 - 3DPhoto Material prefix. Screenshots samples to ReadMe.<br/>
+v0.2 - New 3DPhoto (for Facebook) capture and settings. Fix on camera detection for pawns without camera component.<br/>
 v0.1 - Alpha released.
 
 ## TODO
