@@ -48,7 +48,7 @@ You can find this nodes inside **BP_PhotoModeFX**, Functions **PMFX_UI_Filmback*
 
 Download the Zip file.<br/>
 Extract the files to any folder.<br/>
-Delete the .git_img* folder (if you download/clone from main instead of download the release package).<br/>
+Delete the .git_img* folder (if you download/clone from main instead of <a href="https://github.com/DarknessFX/PhotoModeFX/files/5902017/PhotoModeFX.zip">release package</a>).<br/>
 Open BP_PhotoModeFX and compile the blueprint (ignore warnings, fix the error mentioned above).<br/>
 Open the included Content/PhotoModeFX/PMFX_SampleMap and play the level.<br/>
 Press keyboard P key to start PhotoModeFX (you can change the default key and other settings on BP_PhotoModeFX Details panel).<br>
