@@ -87,6 +87,8 @@ Cubemap (scaled from 512p to 1K, displayed as 640p):<br/>
 
 3DPhoto For Facebook (sample from 2k x 2 images [FinalColor 29.1Mb + SceneDepth 745KB], captured as 560p MP4, converted to 100MB GIF, optimized to 1/4 frames, compressed to 24MB GIF, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_3DPhoto.gif" width="640px" /><br/>
+(FAQ: Why build a feature that only works for Facebook? <br/>
+- Because this screenshot gather most attention than any other before. )<br/><br/>
 
 # Versioning
 v0.3 - 3DPhoto Material prefix. Screenshots samples to ReadMe.<br/>
