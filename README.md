@@ -59,7 +59,7 @@ If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 
 # Samples
 
 Menu Capture:<br/>
-<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" /><br/><br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" /><br/>
 
 GIF:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Feature.gif" width="640px" /></a><br/>
