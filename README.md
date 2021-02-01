@@ -61,6 +61,9 @@ If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 
 Menu Capture:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" /><br/><br/>
 
+GIF:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Feature.gif" width="640px" /></a><br/>
+
 Video:<br/>
 <a href="https://www.youtube.com/watch?v=IyxmRHzYy-Q" target="_blank"><img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PhotoModeFX_YoutubePreview.png" width="640px" /></a><br/>
 
@@ -105,6 +108,7 @@ v0.1 - Alpha released.
 Unreal Engine by Epic Games - https://www.unrealengine.com/ .<br/>
 Video trailer uses UE4 Hour Of Code by Steve Isaacs, Brian Dickman and Ian Southwell - https://www.unrealengine.com/en-US/blog/learn-how-to-code-with-unreal-engine .<br/>
 Screenshot samples uses UE4 Detective Office by Justin Mohlman - https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment .<br/>
+GIF video by 3dnchu - https://3dnchu.com/archives/photomodefx-for-ue4/ .<br/>
 
 ## License
 
