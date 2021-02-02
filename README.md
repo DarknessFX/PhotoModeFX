@@ -89,7 +89,7 @@ Panoramic 360 Screenshot (scaled from 2K to 1K, displayed as 640p):<br/>
 Stereoscopic VR Screenshot (scaled from 2K to 1K, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_VR.png" width="640px" /><br/>
 
-Cubemap (scaled from 512p to 1K, displayed as 640p):<br/>
+Cubemap (scaled from 4096x2048 to 1280x640, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Cubemap.png" width="640px" /><br/>
 
 3DPhoto For Facebook (sample from 2k x 2 images [FinalColor 29.1Mb + SceneDepth 745KB], captured as 560p MP4, converted to 100MB GIF, optimized to 1/4 frames, compressed to 24MB GIF, displayed as 640p):<br/>
