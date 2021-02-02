@@ -94,6 +94,7 @@ FAQ: Why build a feature that only works for Facebook? <br/>
 - Because this screenshot gather and attract more attention than any other screenshot before.<br/><br/>
 
 # Versioning
+v0.4 - Included Effect Tab settings and controls.<br/>
 v0.3 - 3DPhoto Material prefix. Screenshots samples to ReadMe.<br/>
 v0.2 - New 3DPhoto (for Facebook) capture and settings. Fix on camera detection for pawns without camera component.<br/>
 v0.1 - Alpha released.
