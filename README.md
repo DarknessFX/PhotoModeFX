@@ -51,7 +51,7 @@ Video Instructions:<br/>
 
 Download the Zip file.<br/>
 Extract the files to any folder.<br/>
-Delete the .git_img* folder (if you download/clone from main instead of <a href="https://github.com/DarknessFX/PhotoModeFX/releases/download/v0.4/PhotoModeFX.zip">release package</a>).<br/>
+Delete the .git_img* folder (if you download/clone from main instead of <a href="https://github.com/DarknessFX/PhotoModeFX/releases/download/v0.5/PhotoModeFX.zip">release package</a>).<br/>
 Open PhotoModeFX.uproject in Unreal Engine. (double+click the PhotoModeFX.uproject file)<br/>
 Open Content/PhotoModeFX/BP_PhotoModeFX and compile the blueprint (ignore warnings, fix the error mentioned above).<br/>
 Open the included Content/PhotoModeFX/PMFX_SampleMap and play the level.<br/>
@@ -106,7 +106,8 @@ v0.1 - Alpha released.
 
 ## TODO
 
-- Lots of features are under construction until full release.<br/>
+- Working on Filter Tab.<br/>
+- Lots of features (Filter, Sticker, Pose) are under construction until full release.<br/>
 - Files and instructions to install as Engine Template / "Add Feature or Content Pack".
 
 ## Credits
