@@ -97,6 +97,7 @@ FAQ: Why build a feature that only works for Facebook? <br/>
 - Because this screenshot gather and attract more attention than any other screenshot before.<br/><br/>
 
 # Versioning
+v0.5.1 - Small improvements on Panoramic+Stereoscopic default settings in Dev Tab.<br/>
 v0.5 - Included RayTracing Tab settings and controls.<br/>
 v0.4 - Included Effect Tab settings and controls.<br/>
 v0.3 - 3DPhoto Material prefix. Screenshots samples to ReadMe.<br/>
