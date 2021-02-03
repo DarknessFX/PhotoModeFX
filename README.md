@@ -97,6 +97,7 @@ FAQ: Why build a feature that only works for Facebook? <br/>
 - Because this screenshot gather and attract more attention than any other screenshot before.<br/><br/>
 
 # Versioning
+v0.5.2 - Fixed the License "Copyleft" on ReadMe to "Unlicense - Public Domain - Free for everyone and any use".<br/>
 v0.5.1 - Small improvements on Panoramic+Stereoscopic default settings in Dev Tab.<br/>
 v0.5 - Included RayTracing Tab settings and controls.<br/>
 v0.4 - Included Effect Tab settings and controls.<br/>
@@ -119,5 +120,5 @@ GIF video by 3dnchu <a href="https://twitter.com/ymt3d" target="_blank">@ymt3d</
 
 ## License
 
-@Copyleft all wrongs reserved. <br/><br/>
+@Unlicense - Public Domain - Free for everyone and any use. <br/><br/>
 DarknessFX @ <a href="https://dfx.lv" target="_blank">https://dfx.lv</a> | Twitter: <a href="https://twitter.com/DrkFX" target="_blank">@DrkFX</a> <br/>https://github.com/DarknessFX/PhotoModeFX
