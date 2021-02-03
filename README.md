@@ -97,6 +97,7 @@ FAQ: Why build a feature that only works for Facebook? <br/>
 - Because this screenshot gather and attract more attention than any other screenshot before.<br/><br/>
 
 # Versioning
+v0.6 - Fixed "Cannot destroy CineCameraComponent" on exit. Better camera UI and positioning.
 v0.5.2 - Fixed the License "Copyleft" on ReadMe to "Unlicense - Public Domain - Free for everyone and any use".<br/>
 v0.5.1 - Small improvements on Panoramic+Stereoscopic default settings in Dev Tab.<br/>
 v0.5 - Included RayTracing Tab settings and controls.<br/>
