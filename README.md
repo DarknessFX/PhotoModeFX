@@ -116,6 +116,7 @@ Unreal Engine by Epic Games - https://www.unrealengine.com/ .<br/>
 Video trailer uses UE4 Hour Of Code by Steve Isaacs, Brian Dickman and Ian Southwell - https://www.unrealengine.com/en-US/blog/learn-how-to-code-with-unreal-engine .<br/>
 Screenshot samples uses UE4 Detective Office by Justin Mohlman - https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment .<br/>
 GIF video by 3dnchu <a href="https://twitter.com/ymt3d" target="_blank">@ymt3d</a> - https://3dnchu.com/archives/photomodefx-for-ue4/ .<br/>
+Filter BlurFast (adapted) from TouchKey9691 - https://forums.unrealengine.com/community/community-content-tools-and-tutorials/28458-radial-blur-postprocess-material?p=1541025#post1541025 <br/>
 
 ## License
 
