@@ -118,6 +118,11 @@ Video trailer uses UE4 Hour Of Code by Steve Isaacs, Brian Dickman and Ian South
 Screenshot samples uses UE4 Detective Office by Justin Mohlman - https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment .<br/>
 GIF video by 3dnchu <a href="https://twitter.com/ymt3d" target="_blank">@ymt3d</a> - https://3dnchu.com/archives/photomodefx-for-ue4/ .<br/>
 Filter BlurFast (adapted) from TouchKey9691 - https://forums.unrealengine.com/community/community-content-tools-and-tutorials/28458-radial-blur-postprocess-material?p=1541025#post1541025 <br/>
+Filter CRT (adapted) from - https://babylonjs.medium.com/retro-crt-shader-a-post-processing-effect-study-1cb3f783afbc and https://www.shadertoy.com/view/XtlSD7 <br/>
+Filter GaussianBlur (adapted) from https://www.raywenderlich.com/57-unreal-engine-4-custom-shaders-tutorial <br/>
+Filter Kuwahara (adapted) from https://www.raywenderlich.com/100-unreal-engine-4-paint-filter-tutorial <br/>
+Filter Pixelated (adapted) from 8 Bit Pixellize in Unreal Engine 4 - https://www.youtube.com/watch?v=GLJC1qG3oK4 <br/>
+Filter Retro (adapted) from @AlanNoon - https://twitter.com/AlanNoon/status/1297774377547845632 <br/>
 
 ## License
 
