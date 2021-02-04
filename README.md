@@ -95,6 +95,7 @@ Cubemap (scaled from 4096x2048 to 1280x640, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_3DPhoto.gif" width="640px" /><br/>
 
 # Versioning
+v0.7.1 - Added HDRHistogram to Dev Tab, Fixed UI bugs, fine tune in some default values.<br/>
 v0.7 - Included Filters Tab settings and controls. Moved UI Events to a Component to reduze PMFX blueprint file size.<br/>
 v0.6 - Fixed "Cannot destroy CineCameraComponent" on exit. Better camera UI and positioning.<br/>
 v0.5.2 - Fixed the License "Copyleft" on ReadMe to "Unlicense - Public Domain - Free for everyone and any use".<br/>
