@@ -51,13 +51,13 @@ Video Instructions:<br/>
 
 Download the Zip file.<br/>
 Extract the files to any folder.<br/>
-Delete the .git_img* folder (if you download/clone from main instead of <a href="https://github.com/DarknessFX/PhotoModeFX/releases/download/v0.6/PhotoModeFX.zip">release package</a>).<br/>
+Delete the .git_img* folder (if you download/clone from main instead of <a href="https://github.com/DarknessFX/PhotoModeFX/releases/download/v0.7/PhotoModeFX.zip">release package</a>).<br/>
 Open PhotoModeFX.uproject in Unreal Engine. (double+click the PhotoModeFX.uproject file)<br/>
 Open Content/PhotoModeFX/BP_PhotoModeFX and compile the blueprint (ignore warnings, fix the error mentioned above).<br/>
 Open the included Content/PhotoModeFX/PMFX_SampleMap and play the level.<br/>
 Press keyboard P key to start PhotoModeFX (you can change the default key and other settings on BP_PhotoModeFX Details panel).<br>
 If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.<br/><br/>--<br/>
-. PhotoModeFX project files are light weight with 2,147Kb (zipped) but ReadMe screenshots at .git_img folder raises it to 46,104Kb (zipped) .<br/>
+. PhotoModeFX project files are light weight with 4,271Kb (zipped) but ReadMe screenshots at .git_img folder raises it to 46,104Kb (zipped) .<br/>
 
 # Samples
 
@@ -95,6 +95,7 @@ Cubemap (scaled from 4096x2048 to 1280x640, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_3DPhoto.gif" width="640px" /><br/>
 
 # Versioning
+v0.7 - Included Filters Tab settings and controls. Moved UI Events to a Component to reduze PMFX blueprint file size.<br/>
 v0.6 - Fixed "Cannot destroy CineCameraComponent" on exit. Better camera UI and positioning.<br/>
 v0.5.2 - Fixed the License "Copyleft" on ReadMe to "Unlicense - Public Domain - Free for everyone and any use".<br/>
 v0.5.1 - Small improvements on Panoramic+Stereoscopic default settings in Dev Tab.<br/>
