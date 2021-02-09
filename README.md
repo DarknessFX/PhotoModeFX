@@ -20,8 +20,9 @@ Project info/blog at https://dfx.lv/PhotoModeFX .<br/><br/>
 
 ## Features
 
-- Moveable camera while game is paused.
 - Easy to use, add BP_PhotoModeFX to your level and is ready to use.
+- Moveable camera with free movement while game is paused.
+- 21 Filters with customizable settings.
 - Pre and Post events to notify the game when PhotoModeFX is starting/exiting.
 - HighResolution with Buffer Visualization screenshots (via ScreenshotTools plugin).
 - Panoramic (360) and Stereoscopic (VR) with Buffer Visualization screenshots (via PanoramicCapture plugin).
@@ -57,18 +58,19 @@ Open Content/PhotoModeFX/BP_PhotoModeFX and compile the blueprint (ignore warnin
 Open the included Content/PhotoModeFX/PMFX_SampleMap and play the level.<br/>
 Press keyboard P key to start PhotoModeFX (you can change the default key and other settings on BP_PhotoModeFX Details panel).<br>
 If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.<br/><br/>--<br/>
-. PhotoModeFX project files are light weight with 4,271Kb (zipped) but ReadMe screenshots at .git_img folder raises it to 46,104Kb (zipped) .<br/>
+. PhotoModeFX project files are light weight with 5,659Kb (zipped) but ReadMe screenshots at .git_img folder raises it to 48,356Kb (zipped) .<br/>
 
 # Samples
 
-Menu Capture:<br/>
-<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/MenuCapture.png" width="640px" /><br/>
+## Use Sample
 
 GIF:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Feature.gif" width="640px" /></a><br/>
 
 Video:<br/>
 <a href="https://www.youtube.com/watch?v=IyxmRHzYy-Q" target="_blank"><img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PhotoModeFX_YoutubePreview.png" width="640px" /></a><br/>
+
+## Capture Samples
 
 Screenshot:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_SS.png" width="640px" /><br/>
@@ -95,6 +97,7 @@ Cubemap (scaled from 4096x2048 to 1280x640, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_3DPhoto.gif" width="640px" /><br/>
 
 # Versioning
+v1.0 - Full Filters Tab with 21 filters, hided Sticker and Pose tab (feature creep, maybe in future). Full release.
 v0.7.1 - Added HDRHistogram to Dev Tab, Fixed UI bugs, fine tune in some default values.<br/>
 v0.7 - Included Filters Tab settings and controls. Moved UI Events to a Component to reduze PMFX blueprint file size.<br/>
 v0.6 - Fixed "Cannot destroy CineCameraComponent" on exit. Better camera UI and positioning.<br/>
@@ -108,9 +111,7 @@ v0.1 - Alpha released.
 
 ## TODO
 
-- Working on Filter Tab.<br/>
-- Lots of features (Filter, Sticker, Pose) are under construction until full release.<br/>
-- Files and instructions to install as Engine Template / "Add Feature or Content Pack".
+- Files and instructions to install as an Engine Template / "Add Feature or Content Pack" to easily add to any project.
 
 ## Credits
 
