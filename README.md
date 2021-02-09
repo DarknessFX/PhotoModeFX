@@ -58,7 +58,7 @@ Open Content/PhotoModeFX/BP_PhotoModeFX and compile the blueprint (ignore warnin
 Open the included Content/PhotoModeFX/PMFX_SampleMap and play the level.<br/>
 Press keyboard P key to start PhotoModeFX (you can change the default key and other settings on BP_PhotoModeFX Details panel).<br>
 If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 will migrate any dependencies too), add BP_PhotoModeFX to your main level and test on your project.<br/><br/>--<br/>
-. PhotoModeFX project files are light weight with 5,659Kb (zipped) but ReadMe screenshots at .git_img folder raises it to 48,356Kb (zipped) .<br/>
+. PhotoModeFX project files are light weight with 5,659Kb (zipped) but ReadMe screenshots at .git_img folder raises it to 74,715Kb (zipped) .<br/>
 
 # Samples
 
