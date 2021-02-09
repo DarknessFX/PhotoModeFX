@@ -22,7 +22,7 @@ Project info/blog at https://dfx.lv/PhotoModeFX .<br/><br/>
 
 - Easy to use, add BP_PhotoModeFX to your level and is ready to use.
 - Moveable camera with free movement while game is paused.
-- 21 Filters with customizable settings.
+- 21 Filters with customizable settings, compatible with Deferred and Forward renderer.
 - Pre and Post events to notify the game when PhotoModeFX is starting/exiting.
 - HighResolution with Buffer Visualization screenshots (via ScreenshotTools plugin).
 - Panoramic (360) and Stereoscopic (VR) with Buffer Visualization screenshots (via PanoramicCapture plugin).
