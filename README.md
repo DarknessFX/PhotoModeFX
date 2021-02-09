@@ -96,6 +96,71 @@ Cubemap (scaled from 4096x2048 to 1280x640, displayed as 640p):<br/>
 3DPhoto For Facebook (sample from 2k x 2 images [FinalColor 29.1Mb + SceneDepth 745KB], captured as 560p MP4, converted to 100MB GIF, optimized to 1/4 frames, compressed to 24MB GIF, displayed as 640p):<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_3DPhoto.gif" width="640px" /><br/>
 
+## Filters
+
+Blur:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FBlur.png" width="640px" /><br/>
+
+Blur Fast:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FBlurFast.png" width="640px" /><br/>
+
+Black & White:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FBW.png" width="640px" /><br/>
+
+ColorBlind:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FColorBlind.png" width="640px" /><br/>
+
+Contrast:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FContrast.png" width="640px" /><br/>
+
+CRT:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FCRT.png" width="640px" /><br/>
+
+Curve:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FCurve.png" width="640px" /><br/>
+
+Fade Distance:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FFadeDistance.png" width="640px" /><br/>
+
+Fade Sphere:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FFadeSphere.png" width="640px" /><br/>
+
+Flat Colors:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FFlatColors.png" width="640px" /><br/>
+
+Gaussian Blur:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGaussian.png" width="640px" /><br/>
+
+Greyscale:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGreyscale.png" width="640px" /><br/>
+
+Greyscale Back:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGreyscaleBack.png" width="640px" /><br/>
+
+Greyscale Front:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGreyscaleFront.png" width="640px" /><br/>
+
+Hue Shift:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FHurShift.png" width="640px" /><br/>
+
+Impress:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FImpress.png" width="640px" /><br/>
+
+Isolate Color:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FIsolateColor.png" width="640px" /><br/>
+
+Kuwahara (Oil Painting):<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FKuwahara.png" width="640px" /><br/>
+
+Outline (Cartoon or Comics):<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FOutline.png" width="640px" /><br/>
+
+Pixelated:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FPixelated.png" width="640px" /><br/>
+
+Retro:<br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FRetro.png" width="640px" /><br/>
+
 # Versioning
 v1.0 - Full Filters Tab with 21 filters, hided Sticker and Pose tab (feature creep, maybe in future). Full release.<br/>
 v0.7.1 - Added HDRHistogram to Dev Tab, Fixed UI bugs, fine tune in some default values.<br/>
