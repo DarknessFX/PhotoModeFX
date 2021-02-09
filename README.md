@@ -62,7 +62,7 @@ If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 
 
 # Samples
 
-## Use Sample
+## Useage
 
 GIF:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Feature.gif" width="640px" /></a><br/>
@@ -70,7 +70,7 @@ GIF:<br/>
 Video:<br/>
 <a href="https://www.youtube.com/watch?v=IyxmRHzYy-Q" target="_blank"><img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PhotoModeFX_YoutubePreview.png" width="640px" /></a><br/>
 
-## Capture Samples
+## Capture Modes
 
 Screenshot:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_SS.png" width="640px" /><br/>
