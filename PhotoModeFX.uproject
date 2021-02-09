@@ -339,6 +339,10 @@
 		{
 			"Name": "ScreenshotTools",
 			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": false
 		}
 	]
 }
