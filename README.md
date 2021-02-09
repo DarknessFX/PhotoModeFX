@@ -30,7 +30,7 @@ Project info/blog at https://dfx.lv/PhotoModeFX .<br/><br/>
 - Generate 3DPhotos (for Facebook).
 - Blueprint only, to easily package your project to any supported platform.
 - No tick events.
-- Following current UE4 Best Practices. 
+- Following current UE4 Best Practices.
 
 # Requirements
 Unreal Engine 4.23.1 or newer.<br/>
@@ -62,7 +62,7 @@ If you like the features, you can migrate BP_PhotoModeFX to other projects (UE4 
 
 # Samples
 
-## Useage
+## Usage
 
 GIF:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_Feature.gif" width="640px" /></a><br/>
