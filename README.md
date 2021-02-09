@@ -129,7 +129,7 @@ Flat Colors:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FFlatColors.png" width="640px" /><br/>
 
 Gaussian Blur:<br/>
-<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGaussian.png" width="640px" /><br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGaussianBlur.png" width="640px" /><br/>
 
 Greyscale:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGreyscale.png" width="640px" /><br/>
