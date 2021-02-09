@@ -141,7 +141,7 @@ Greyscale Front:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FGreyscaleFront.png" width="640px" /><br/>
 
 Hue Shift:<br/>
-<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FHurShift.png" width="640px" /><br/>
+<img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FHueShift.png" width="640px" /><br/>
 
 Impress:<br/>
 <img src="https://raw.githubusercontent.com/DarknessFX/PhotoModeFX/main/.git_img/PMFX_FImpress.png" width="640px" /><br/>
